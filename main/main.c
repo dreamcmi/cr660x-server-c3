@@ -13,10 +13,10 @@
 
 static const char *TAG = "cr";
 
-#define EXAMPLE_ESP_WIFI_SSID "C3CR660X"
+#define EXAMPLE_ESP_WIFI_SSID "c3-cr660x"
 #define EXAMPLE_ESP_WIFI_PASS "12345678"
 #define EXAMPLE_ESP_WIFI_CHANNEL 11
-#define EXAMPLE_MAX_STA_CONN 1
+#define EXAMPLE_MAX_STA_CONN 5
 #define LOCAL_IP "169.254.31.1"
 
 static void wifi_event_handler(void *arg, esp_event_base_t event_base,

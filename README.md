@@ -30,7 +30,7 @@ idf.py -p COM3 flash
 
 默认配置
 
-AP名称：C3CR660X 
+AP名称：c3-cr660x
 
 密码:12345678 
 
